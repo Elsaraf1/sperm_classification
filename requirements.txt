@@ -1,0 +1,21 @@
+# YOLOv8 and Deep Learning
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Dataset
+roboflow>=1.1.0
+
+# Jupyter
+jupyter>=1.0.0
+ipython>=8.0.0
